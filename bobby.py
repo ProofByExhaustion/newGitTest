@@ -1,3 +1,3 @@
 int a
 a=15
-print(a," hello")
+print(a," hello","John was here!")
